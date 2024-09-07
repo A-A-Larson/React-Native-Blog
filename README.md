@@ -3,7 +3,7 @@
 
 The assignment required me to make a website with React Native using Expo and it had to include navigation routing, authentification, be able to create and save data using Firebase and have a screen that lists data from the Firebase database.
 
-I made a blog site that stores each blog entry in the Firebase database:
+I made a blog site that stores each blog entry in the Firebase database: <br>
 <img width="371" alt="finalss1" src="https://github.com/user-attachments/assets/8c235747-7388-4751-ae05-e05c9b7a4b4b">
 
 Each blog entry was styled to look like a polaroid picture:
