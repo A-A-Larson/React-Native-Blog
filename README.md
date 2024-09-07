@@ -6,16 +6,16 @@ The assignment required me to make a website with React Native using Expo and it
 I made a blog site that stores each blog entry in the Firebase database: <br>
 <img width="371" alt="finalss1" src="https://github.com/user-attachments/assets/8c235747-7388-4751-ae05-e05c9b7a4b4b">
 
-Each blog entry was styled to look like a polaroid picture:
+Each blog entry was styled to look like a polaroid picture: <br>
 <img width="409" alt="finalss2" src="https://github.com/user-attachments/assets/952f9d8f-27bf-464f-a2bf-2c18f7fb4383">
 
-There was an admin login page using Firebase Authentification:
+There was an admin login page using Firebase Authentification: <br>
 <img width="371" alt="finalss3" src="https://github.com/user-attachments/assets/baaaa7a8-6515-4c9d-b581-34bd8e23892c">
 
-After logging in the user could fill out a form to add a new blog entry:
+After logging in the user could fill out a form to add a new blog entry: <br>
 <img width="371" alt="finalss4" src="https://github.com/user-attachments/assets/364cae42-b36a-491e-9f02-1e95b54f803b">
 
-And a form to create new users:
+And a form to create new users: <br>
 <img width="371" alt="finalss5" src="https://github.com/user-attachments/assets/70a19e78-1dd8-481d-9701-e57625ba97f1">
 
 ## How to Install
